@@ -1,0 +1,23 @@
+/* fonts */
+@import url("https://fonts.googleapis.com/css2?family=Qwigley&display=swap");
+.brand {
+  font-family: "Qwigley", cursive;
+}
+.primary {
+  color: #fdbe35;
+  font-size: 4rem;
+  font-weight: 400;
+}
+
+.jumbotron-fluid {
+  background-color: #fdbe35;
+}
+.card-padding {
+  margin: 1rem;
+}
+.img-small {
+  max-height: 10rem;
+}
+.img-big {
+  max-height: 15rem;
+}
